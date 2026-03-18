@@ -1,0 +1,5 @@
+add data set in following way to train models
+
+cash crop disease prediction system/data/-crop-name-(dataset)/data/.....
+
+dataset links are attached in a text file in main directory

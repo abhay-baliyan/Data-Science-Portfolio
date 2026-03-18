@@ -1,0 +1,21 @@
+                      precision    recall  f1-score   support
+
+               Aphid       0.95      0.95      0.95        20
+          Black_Rust       0.94      0.85      0.89        20
+               Blast       1.00      1.00      1.00        20
+          Brown_Rust       1.00      0.90      0.95        20
+     Common_Root_Rot       1.00      1.00      1.00        20
+Fusarium_Head_Blight       1.00      0.90      0.95        20
+             Healthy       0.60      0.15      0.24        20
+         Leaf_Blight       0.82      0.90      0.86        20
+              Mildew       0.95      1.00      0.98        20
+                Mite       1.00      0.85      0.92        20
+            Septoria       0.95      0.95      0.95        20
+                Smut       0.95      1.00      0.98        20
+            Stem_fly       1.00      1.00      1.00        20
+            Tan_spot       0.78      0.90      0.84        20
+         Yellow_Rust       0.54      1.00      0.70        20
+
+            accuracy                           0.89       300
+           macro avg       0.90      0.89      0.88       300
+        weighted avg       0.90      0.89      0.88       300
